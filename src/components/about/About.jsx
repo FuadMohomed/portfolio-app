@@ -36,11 +36,21 @@ function About() {
           <small>50+ Completed</small>
         </article>
       </div>
-    <p>
-    Lorem ipsum dolor sit amet 
-    consectetur adipisicing elit. Maiores vel iure perferendis ad 
-    iste repudiandae optio sapiente consequatur autem dolores quidem, totam illum neque veniam rerum tempore dolorum necessitatibus 
-     eos?
+    <p>“HELLO WORLD ” 
+   I’m a Junior full stack developer with a passion for learning new technologies
+   and working with teams to create user-friendly web applications. 
+  I have 2 years of experience in developing  projects,  
+  which include front-end and back-end technologies. 
+ These technologies consist of the M.E.R.N  STACK . Im prepared and excited 
+  to develop my skills in a working environment and contribute to the success of a company. 
+  Coding is one thing But well structured, organized code is another! .
+   It's  a preventive measure for future bugs. 
+   Even so if they occur Debugging and resolving issues are part of the job. 
+    And I like to take pride in my composure,
+   and  attitude in resolving matters, either alone are with the help of others.
+  That being said I’m informed and up to date with the latest technology’s as well as motivated and disciplined.
+   Im a self-taught web developer that aspires to launch a career building web applications,
+   Rest api’s and services. 
       </p>
     <a href='#Contact' className='btn btn-primary'>Let's Talk</a>  
 
