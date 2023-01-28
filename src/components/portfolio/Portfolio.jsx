@@ -18,7 +18,7 @@ function Portfolio() {
 <div className="portfolio__item-image">
 <img src={IMGb} alt='graph'/>
 </div>
-<h3> Thisis a portfolio item title</h3>
+<h3> This is a portfolio item title</h3>
 <div className="portfolio__item-cta">
 <a href='https://github.com' className='btn' target='_blank'>Github</a>
 <a href='https://dribbble.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -29,7 +29,7 @@ function Portfolio() {
 <div className="portfolio__item-image">
 <img src={IMGc} alt='graph'/>
 </div>
-<h3> Thisis a portfolio item title</h3>
+<h3> This is a portfolio item title</h3>
 <div className="portfolio__item-cta">
   <a href='https://github.com' className='btn' target='_blank'>Github</a>
 <a href='https://dribbble.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -40,7 +40,7 @@ function Portfolio() {
 <div className="portfolio__item-image">
 <img src={IMGd} alt='graph'/>
 </div>
-<h3> Thisis a portfolio item title</h3>
+<h3> This is a portfolio item title</h3>
 <div className="portfolio__item-cta">
   <a href='https://github.com' className='btn' target='_blank'>Github</a>
 <a href='https://dribbble.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -51,7 +51,7 @@ function Portfolio() {
 <div className="portfolio__item-image">
 <img src={IMGe} alt='graph'/>
 </div>
-<h3> Thisis a portfolio item title</h3>
+<h3> This is a portfolio item title</h3>
 <div className="portfolio__item-cta">
   <a href='https://github.com' className='btn' target='_blank'>Github</a>
 <a href='https://dribbble.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -73,7 +73,7 @@ function Portfolio() {
 <div className="portfolio__item-image">
 <img src={IMGg} alt='graph'/>
 </div>
-<h3> Thisis a portfolio item title</h3>
+<h3> This is a portfolio item title</h3>
 <div className="portfolio__item-cta">
   <a href='https://github.com' className='btn' target='_blank'>Github</a>
 <a href='https://dribbble.com/' className='btn btn-primary' target='_blank'>Live Demo</a>
