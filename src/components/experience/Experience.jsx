@@ -77,7 +77,7 @@ function Experience() {
        <article className='experience__details'>
           <BsFillPatchCheckFill className='love'/>
           <div>
-            <h4>PHP</h4>
+            <h4>Express</h4>
           <small className='text-light'>Intermediate</small>
           </div>
         </article>
@@ -91,7 +91,7 @@ function Experience() {
        <article className='experience__details'>
           <BsFillPatchCheckFill className='love'/>
          <div>
-             <h4>PYTHON</h4>
+             <h4>Strapi</h4>
           <small className='text-light'>Experienced</small>
          </div>
         </article>

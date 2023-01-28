@@ -23,17 +23,17 @@ function About() {
         <article className="about__card">
           <FaAward className='about__icon'/>
           <h5>Experience</h5>
-          <small>3+ Years Working Experience</small>
+          <small>2 Years Experience</small>
         </article>
         <article className="about__card">
           <FiUsers className='about__icon'/>
           <h5>Clients</h5>
-          <small>200+ WorldWide</small>
+          <small>20+</small>
         </article>
         <article className="about__card">
           <AiFillFolderOpen className='about__icon' />
           <h5>Projects</h5>
-          <small>100+ Completed</small>
+          <small>50+ Completed</small>
         </article>
       </div>
     <p>
